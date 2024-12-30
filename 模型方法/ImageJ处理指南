@@ -1,0 +1,6 @@
+TEM平场校正：
+
+- 1.高斯滤波（模糊获得背景）Process-Filters-Gaussian Blur
+- 设置像素适中50
+- 2.减去背景 Process-Image Calculator
+- 3.最后Edit Invert
